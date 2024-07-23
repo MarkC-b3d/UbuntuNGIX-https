@@ -52,7 +52,3 @@ If you encounter any issues:
     ```
 - Ensure your domain is correctly pointed to your server's IP address.
 - Verify that the `index.html` file exists in your document root.
-
-## License
-
-This project is licensed under the MIT License.
